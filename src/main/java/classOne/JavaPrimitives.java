@@ -1,4 +1,4 @@
-package aula1;
+package classOne;
 
 /**
  * Here we will look into some Java types

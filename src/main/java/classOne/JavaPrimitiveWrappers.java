@@ -1,4 +1,4 @@
-package aula1;
+package classOne;
 
 /**
  * These wrappers in Java can be used AS IF they were a primitive, so no need for the "new" keyword

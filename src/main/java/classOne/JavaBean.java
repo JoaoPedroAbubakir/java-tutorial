@@ -1,4 +1,4 @@
-package aula1;
+package classOne;
 
 import java.io.Serializable;
 /**

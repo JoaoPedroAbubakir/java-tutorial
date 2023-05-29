@@ -1,4 +1,4 @@
-package aula1;
+package classOne;
 
 /**
  * POJO stands for "Plain Old Java Object"
