@@ -1,7 +1,17 @@
-In this first lesson we will talk about what is a POJO and What is a BEAN
+This first lesson is on Java primitives and their wrappers
 
-They are both a class, but a POJO is sloppy
+We will also cover the basic difference between a POJO and a Bean
 
-The Bean is a more refined class following some rules.
+Order of readig:
 
-We will be using pure Java for a while, we will dive into Spring a bit later.
+[Java Primitives](JavaPrimitives.java)
+
+[Java Primitive Wrappers](JavaPrimitiveWrappers.java)
+
+[Java POJO](JavaPOJO.java)
+
+[Java Bean](JavaBean.java)
+
+[Training](Training.java)
+
+[Solution](TrainingSolved.java)
