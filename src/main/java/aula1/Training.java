@@ -3,7 +3,7 @@ package aula1;
 /**
  * For this first training
  *<br><br>
- * create a <h4>Java Bean</h4> with the following unwrapped primitives
+ * create a <h2>Java Bean</h2> with the following unwrapped primitives
  * <pre>
  *     int
  *     boolean
@@ -14,6 +14,8 @@ package aula1;
  *     String
  *     Double
  * </pre>
+ *
+ * <h2>Remember the rules for a Bean</h2>
  */
 public class Training {
 
