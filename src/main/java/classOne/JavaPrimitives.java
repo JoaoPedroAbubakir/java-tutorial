@@ -37,7 +37,7 @@ public class JavaPrimitives {
     /**
      * The long data type is a 64-bit two's complement integer. The signed long has a minimum value of -2^63 and a maximum value of 2^63-1. In Java SE 8 and later, you can use the long data type to represent an unsigned 64-bit long, which has a minimum value of 0 and a maximum value of 2^64-1.
      */
-    long longType = 0L; //Note the "L" after the number
+    long longType = 0L; //Notice the "L" after the number
 
     /**
      * he float data type is a single-precision 32-bit IEEE 754 floating point.
@@ -48,7 +48,7 @@ public class JavaPrimitives {
      * <br><br>
      * For that you should use {@link java.math.BigDecimal}
      */
-    float floatType = 0.0f; //Not the "f" after the number
+    float floatType = 0.0f; //Notice the "f" after the number
 
     /**
      * The double data type is a double-precision 64-bit IEEE 754 floating point
@@ -59,7 +59,7 @@ public class JavaPrimitives {
      * <br><br>
      * For that you should use {@link java.math.BigDecimal}
      */
-    double doubleType = 0.0d; //Not the "d" after the number
+    double doubleType = 0.0d; //Notice the "d" after the number
 
     /**
      * The boolean data type has only two possible values: true and false. Use this data type for simple flags that track true/false conditions
