@@ -1,4 +1,4 @@
-package com.abubakir.aulaadler;
+package com.abubakir.javatutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,10 +9,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * that depend on some triggers like "before application starts" or "right after it starts"
  */
 @SpringBootApplication
-public class AulaAdlerApplication {
+public class JavaTutorialApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AulaAdlerApplication.class, args);
+        SpringApplication.run(JavaTutorialApplication.class, args);
     }
 
 }

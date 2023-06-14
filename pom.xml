@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.abubakir</groupId>
-    <artifactId>aula-Adler</artifactId>
+    <artifactId>java-tutorial</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>aula-Adler</name>
-    <description>aula-Adler</description>
+    <name>java-tutorial</name>
+    <description>Simple Java Tutorial</description>
     <properties>
         <java.version>17</java.version>
     </properties>

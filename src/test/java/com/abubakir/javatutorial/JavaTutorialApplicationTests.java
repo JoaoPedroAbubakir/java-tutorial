@@ -1,10 +1,10 @@
-package com.abubakir.aulaadler;
+package com.abubakir.javatutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AulaAdlerApplicationTests {
+class JavaTutorialApplicationTests {
 
     @Test
     void contextLoads() {
