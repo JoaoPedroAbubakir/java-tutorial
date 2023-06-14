@@ -9,8 +9,9 @@ package classOne;
  */
 public class JavaPrimitives {
 
-    //The primitive types along with their default values are
-    //Primitive values do not need the "new" keyword to be initialized
+    /*A simple way to differentiate primitives from Objects and Classes is that primitives do not need the "new" keyword to be initialized.
+    In other words, it means that they do not need to be explicitly instantiated.
+     */
 
     /**
      * The byte data type is an 8-bit signed two's complement integer. It has a minimum value of -128 and a maximum value of 127 (inclusive).
@@ -18,7 +19,7 @@ public class JavaPrimitives {
     byte byteType = 0;
 
     /**
-     *  The short data type is a 16-bit signed two's complement integer. It has a minimum value of -32,768 and a maximum value of 32,767 (inclusive)
+     * The short data type is a 16-bit signed two's complement integer. It has a minimum value of -32,768 and a maximum value of 32,767 (inclusive)
      */
     short shorType = 0;
 
@@ -75,7 +76,7 @@ public class JavaPrimitives {
      * The String type in Java is a special case
      * <br><br>
      * <h4>From the official Java Documentation:</h4>
-     *
+     * <p>
      * In addition to the eight primitive data types listed above, the Java programming language also provides special support for character strings via the {@link java.lang.String } class.
      * Enclosing your character string within double quotes will automatically create a <pre>{@code new String object};</pre>
      * for example,
